@@ -12,5 +12,8 @@ merging and pushing to the
 remote repository
 
 
-
+im on a branch
+thats on a remote
+just throwing that 
+out there
 
